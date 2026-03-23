@@ -1,0 +1,6 @@
+db:
+  type: sqlite
+  storage: /opt/render/project/src/data/wiki.db
+
+port: 10000
+host: 0.0.0.0
