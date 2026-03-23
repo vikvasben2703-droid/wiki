@@ -5,6 +5,3 @@ db:
   name: carcamwiki_db
   user: carcamwiki_db_user
   password: iFys8jz0q5ihRTMBSJoXcfCBY3EgzeC6
-
-port: 10000
-host: 0.0.0.0
