@@ -1,10 +1,10 @@
 db:
   type: postgres
-  host: dpg-d70i5jp4tr6s73e6rke0-a
+  host: dpg-d712a0tm5p6s738qk3ng-a
   port: 5432
-  name: carcamwiki_db_ompu
-  user: carcamwiki_db_ompu_user
-  password: lhQ9r5GbIBKERV2mB6RRnYPjSWQW4TMU
+  name: wiki_db_uhy3
+  user: wiki_db_uhy3_user
+  password: EfKaM2v2SM4AjEfVQ3yt2okpp9MpU7EN
 
 port: 10000
 host: 0.0.0.0
